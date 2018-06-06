@@ -5,9 +5,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2d51cb0-ac20-44eb-86cc-9efe576590f0" name="Default" comment="">
+    <list default="true" id="f2d51cb0-ac20-44eb-86cc-9efe576590f0" name="Default" comment="Added a file has been changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java" afterPath="$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" afterPath="$PROJECT_DIR$/example/lib/main.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -29,9 +31,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding>
-                <marker date="1528247877154" expanded="false" signature="7:61" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,10 +39,12 @@
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#349#2179#0" expanded="false" />
+                <element signature="e#573#1007#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -53,7 +55,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="68">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,31 +66,59 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="84" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="84" />
+            <state relative-caret-position="68">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
-                <folding />
+              <first_editor relative-caret-position="2142">
+                <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+                <folding>
+                  <marker date="1528271624855" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
+                  <marker date="1528271624855" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
+                  <marker date="1528271624855" expanded="true" signature="556:563" ph="flutter" />
+                  <marker date="1528271624855" expanded="true" signature="645:2476" ph="{...}" />
+                  <marker date="1528271624855" expanded="true" signature="817:845" ph="{...}" />
+                  <marker date="1528271624855" expanded="true" signature="876:1304" ph="{...}" />
+                  <marker date="1528271624855" expanded="true" signature="882:967" ph="/*...*/" />
+                  <marker date="1528271624855" expanded="true" signature="1250:1258" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1437:1496" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1464:1485" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1525:2453" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1566:1571" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1600:2442" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
+                  <marker date="1528271624855" expanded="true" signature="1757:1850" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="1879:2033" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2059:2144" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2092:2127" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2181:2335" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2263:2276" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2311:2334" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2362:2415" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2391:2414" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2461:2462" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2461:2469" ph="(...)" />
+                  <marker date="1528271624855" expanded="true" signature="2461:2474" ph="{...}" />
+                  <marker date="1528271624855" expanded="true" signature="2461:2476" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlutterImagePickCropPlugin.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FlutterImagePickCropPlugin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="44" selection-end-line="175" selection-end-column="76" />
+            <state relative-caret-position="105">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding>
                 <element signature="method#checkRequestResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
                 <element signature="method#finishWithAlreadyActiveError#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
@@ -114,6 +144,7 @@
     <findStrings>
       <find>user_image</find>
       <find>CROP</find>
+      <find>pawa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,10 +162,10 @@
         <option value="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java" />
         <option value="$PROJECT_DIR$/lib/flutter_image_pick_crop.dart" />
-        <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -180,10 +211,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -311,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528270074595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a file on the read me">
+      <created>1528270176786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528270176786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -320,6 +359,7 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -328,9 +368,9 @@
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6451613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30220714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8336163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34465197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22071308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -355,7 +395,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a licence file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a licence file" />
+    <MESSAGE value="Added a file on the read me" />
+    <MESSAGE value="Added a file has been changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a file has been changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -366,9 +408,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <marker date="1528247877154" expanded="false" signature="7:61" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -378,6 +418,8 @@
           <caret line="85" column="53" lean-forward="false" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#349#2179#0" expanded="false" />
+            <element signature="e#573#1007#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,38 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/flutter_image_pick_crop.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <marker date="1528247877154" expanded="false" signature="7:61" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="44" selection-end-line="175" selection-end-column="76" />
-          <folding>
-            <element signature="method#checkRequestResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-            <element signature="method#finishWithAlreadyActiveError#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-            <element signature="method#clearMethodCallAndResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -542,17 +552,67 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ss1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flutter_image_pick_crop.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#349#2179#0" expanded="false" />
+            <element signature="e#573#1007#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="84" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="84" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -560,11 +620,51 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
-            <folding />
+          <first_editor relative-caret-position="2142">
+            <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <folding>
+              <marker date="1528271624855" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
+              <marker date="1528271624855" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
+              <marker date="1528271624855" expanded="true" signature="556:563" ph="flutter" />
+              <marker date="1528271624855" expanded="true" signature="645:2476" ph="{...}" />
+              <marker date="1528271624855" expanded="true" signature="817:845" ph="{...}" />
+              <marker date="1528271624855" expanded="true" signature="876:1304" ph="{...}" />
+              <marker date="1528271624855" expanded="true" signature="882:967" ph="/*...*/" />
+              <marker date="1528271624855" expanded="true" signature="1250:1258" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1437:1496" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1464:1485" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1525:2453" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1566:1571" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1600:2442" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
+              <marker date="1528271624855" expanded="true" signature="1757:1850" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="1879:2033" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2059:2144" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2092:2127" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2181:2335" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2263:2276" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2311:2334" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2362:2415" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2391:2414" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2461:2462" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2461:2469" ph="(...)" />
+              <marker date="1528271624855" expanded="true" signature="2461:2474" ph="{...}" />
+              <marker date="1528271624855" expanded="true" signature="2461:2476" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="method#checkRequestResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
+            <element signature="method#finishWithAlreadyActiveError#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
+            <element signature="method#clearMethodCallAndResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

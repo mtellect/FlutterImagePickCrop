@@ -93,7 +93,7 @@ public class FlutterImagePickCropPlugin implements MethodCallHandler, PluginRegi
         if (call.hasArgument(PICK_OPTIONS)) {
             String options = call.argument(PICK_OPTIONS).toString();
 
-            Toast.makeText(activity, "Option Received", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(activity, "Option Received", Toast.LENGTH_SHORT).show();
 
             if (options.equals(REQUEST_FOR_CAMERA)) {
                 openPickupFromCamera();
@@ -104,7 +104,7 @@ public class FlutterImagePickCropPlugin implements MethodCallHandler, PluginRegi
     }
 
     private void openPickupFromCamera() {
-        Toast.makeText(activity, REQUEST_FOR_CAMERA, Toast.LENGTH_SHORT).show();
+        //Toast.makeText(activity, REQUEST_FOR_CAMERA, Toast.LENGTH_SHORT).show();
 
         /* For Image capture from camera */
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
@@ -114,7 +114,7 @@ public class FlutterImagePickCropPlugin implements MethodCallHandler, PluginRegi
     }
 
     private void openPickupFromGallery() {
-        Toast.makeText(activity, REQUEST_FOR_GALLERY, Toast.LENGTH_SHORT).show();
+        //Toast.makeText(activity, REQUEST_FOR_GALLERY, Toast.LENGTH_SHORT).show();
 
         // For Image capture from Gallary
    /*     activity.startActivityForResult(new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.INTERNAL_CONTENT_URI),

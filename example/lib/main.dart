@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _platformVersion = 'Unknown';
+  String _platformMessage = 'Unknown';
   String _camera = 'fromCameraCropImage';
   String _gallery = 'fromGalleryCropImage';
   File imageFile;
@@ -20,24 +20,6 @@ class _MyAppState extends State<MyApp> {
   @override
   initState() {
     super.initState();
-    //initPlatformState();
-    //initGalleryPickUp();
-  }
-
-  initPlatformState() async {
-    String platformVersion;
-    // Platform messages may fail, so we use a try/catch PlatformException.
-    try {
-      platformVersion = await FlutterImagePickCrop.platformVersion;
-    } on PlatformException {
-      platformVersion = 'Failed to get platform version.';
-    }
-
-    if (!mounted) return;
-
-    setState(() {
-      _platformVersion = platformVersion;
-    });
   }
 
   initGalleryPickUp() async {
@@ -59,7 +41,7 @@ class _MyAppState extends State<MyApp> {
 
     setState(() {
       imageFile = new File(result);
-      _platformVersion = result;
+      _platformMessage = result;
     });
   }
 
@@ -86,7 +68,7 @@ class _MyAppState extends State<MyApp> {
                       color: Theme.of(context).primaryColor,
                     ),
               new Center(
-                child: new Text('Running on: $_platformVersion\n'),
+                child: new Text('Running on: $_platformMessage\n'),
               ),
               new RaisedButton.icon(
                   onPressed: initGalleryPickUp,
