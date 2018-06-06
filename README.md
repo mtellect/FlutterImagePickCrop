@@ -1,6 +1,6 @@
 # flutter_image_pick_crop
 
-A new Flutter plugin.
+A new Flutter plugin for cropping images picked from camera or gallery.
 
 ## Getting Started
 
