@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2d51cb0-ac20-44eb-86cc-9efe576590f0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -70,57 +71,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2142">
-                <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <first_editor relative-caret-position="2">
+                <caret line="117" column="3" lean-forward="false" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
                 <folding>
-                  <marker date="1528271624855" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
-                  <marker date="1528271624855" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
-                  <marker date="1528271624855" expanded="true" signature="556:563" ph="flutter" />
-                  <marker date="1528271624855" expanded="true" signature="645:2476" ph="{...}" />
-                  <marker date="1528271624855" expanded="true" signature="817:845" ph="{...}" />
-                  <marker date="1528271624855" expanded="true" signature="876:1304" ph="{...}" />
-                  <marker date="1528271624855" expanded="true" signature="882:967" ph="/*...*/" />
-                  <marker date="1528271624855" expanded="true" signature="1250:1258" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1437:1496" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1464:1485" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1525:2453" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1566:1571" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1600:2442" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
-                  <marker date="1528271624855" expanded="true" signature="1757:1850" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="1879:2033" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2059:2144" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2092:2127" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2181:2335" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2263:2276" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2311:2334" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2362:2415" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2391:2414" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2461:2462" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2461:2469" ph="(...)" />
-                  <marker date="1528271624855" expanded="true" signature="2461:2474" ph="{...}" />
-                  <marker date="1528271624855" expanded="true" signature="2461:2476" ph="{...}" />
+                  <marker date="1528271856996" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
+                  <marker date="1528271856996" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
+                  <marker date="1528271856996" expanded="true" signature="556:563" ph="flutter" />
+                  <marker date="1528271856996" expanded="true" signature="645:2476" ph="{...}" />
+                  <marker date="1528271856996" expanded="true" signature="817:845" ph="{...}" />
+                  <marker date="1528271856996" expanded="true" signature="876:1304" ph="{...}" />
+                  <marker date="1528271856996" expanded="true" signature="882:967" ph="/*...*/" />
+                  <marker date="1528271856996" expanded="true" signature="1250:1258" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1437:1496" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1464:1485" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1525:2453" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1566:1571" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1600:2442" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
+                  <marker date="1528271856996" expanded="true" signature="1757:1850" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="1879:2033" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2059:2144" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2092:2127" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2181:2335" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2263:2276" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2311:2334" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2362:2415" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2391:2414" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2461:2462" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2461:2469" ph="(...)" />
+                  <marker date="1528271856996" expanded="true" signature="2461:2474" ph="{...}" />
+                  <marker date="1528271856996" expanded="true" signature="2461:2476" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlutterImagePickCropPlugin.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-              <folding>
-                <element signature="method#checkRequestResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-                <element signature="method#finishWithAlreadyActiveError#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-                <element signature="method#clearMethodCallAndResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -354,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528271697816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a file has been changed">
+      <created>1528271707677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528271707677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -363,7 +357,7 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -372,7 +366,7 @@
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6451613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8336163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46519524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22071308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -621,45 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2142">
-            <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-            <folding>
-              <marker date="1528271624855" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
-              <marker date="1528271624855" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
-              <marker date="1528271624855" expanded="true" signature="556:563" ph="flutter" />
-              <marker date="1528271624855" expanded="true" signature="645:2476" ph="{...}" />
-              <marker date="1528271624855" expanded="true" signature="817:845" ph="{...}" />
-              <marker date="1528271624855" expanded="true" signature="876:1304" ph="{...}" />
-              <marker date="1528271624855" expanded="true" signature="882:967" ph="/*...*/" />
-              <marker date="1528271624855" expanded="true" signature="1250:1258" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1437:1496" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1464:1485" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1525:2453" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1566:1571" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1600:2442" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
-              <marker date="1528271624855" expanded="true" signature="1757:1850" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="1879:2033" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2059:2144" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2092:2127" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2181:2335" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2263:2276" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2311:2334" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2362:2415" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2391:2414" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2461:2462" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2461:2469" ph="(...)" />
-              <marker date="1528271624855" expanded="true" signature="2461:2474" ph="{...}" />
-              <marker date="1528271624855" expanded="true" signature="2461:2476" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/java/maugost/flutterimagepickcrop/FlutterImagePickCropPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -669,6 +624,45 @@
             <element signature="method#finishWithAlreadyActiveError#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
             <element signature="method#clearMethodCallAndResult#0;class#FlutterImagePickCropPlugin#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2">
+            <caret line="117" column="3" lean-forward="false" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+            <folding>
+              <marker date="1528271856996" expanded="true" signature="518:592" ph="dependencies: &lt;2 keys&gt;" />
+              <marker date="1528271856996" expanded="true" signature="536:563" ph="flutter: &lt;1 key&gt;" />
+              <marker date="1528271856996" expanded="true" signature="556:563" ph="flutter" />
+              <marker date="1528271856996" expanded="true" signature="645:2476" ph="{...}" />
+              <marker date="1528271856996" expanded="true" signature="817:845" ph="{...}" />
+              <marker date="1528271856996" expanded="true" signature="876:1304" ph="{...}" />
+              <marker date="1528271856996" expanded="true" signature="882:967" ph="/*...*/" />
+              <marker date="1528271856996" expanded="true" signature="1250:1258" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1437:1496" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1464:1485" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1525:2453" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1566:1571" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1600:2442" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1681:1689" ph="&lt;~&gt;" />
+              <marker date="1528271856996" expanded="true" signature="1757:1850" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="1879:2033" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2059:2144" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2092:2127" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2181:2335" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2263:2276" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2311:2334" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2362:2415" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2391:2414" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2461:2462" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2461:2469" ph="(...)" />
+              <marker date="1528271856996" expanded="true" signature="2461:2474" ph="{...}" />
+              <marker date="1528271856996" expanded="true" signature="2461:2476" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

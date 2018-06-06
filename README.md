@@ -115,7 +115,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> * [Bitcoin](1K2wivc2xy7tTjsmHhNzq7wwEHoyHfS64n)
+> *Bitcoin: 1K2wivc2xy7tTjsmHhNzq7wwEHoyHfS64n
 
 
 # License
